@@ -1,4 +1,4 @@
-# 3.2-sharir-assignment
+# 3.2-nasir
 
 - GitHub authentication is the providing credetials that are unique to you to prove you are who you declare to be.
 
@@ -51,3 +51,6 @@
     3. git commit -m    > there will be a lot of file committing
     
     4. git push > to push changes to the remote repo
+ 
+       
+Referenced from Sharir's
